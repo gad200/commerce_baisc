@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-custom{
+    width: 350px;
+    margin: 0 15px;
+    margin-bottom: 10px;
+}
